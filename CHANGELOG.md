@@ -1,16 +1,16 @@
 # Changelog
-Todos los cambios notables a este proyecto se documentarán en este archivo.
-El formato se de este *changelog* basa en [Keep a Changelog](http://keepachangelog.com/) y este proyecto se adhiere a [Semantic Versioning](http://semver.org/).
+All important changes to this project will be documented in this file..
+The format of this *changelog* is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
-- Introduzca aquí el listado de futuras incorporaciones para el proyecto.
+- Enter here the list of future incorporations for the project.
 
 ## [1.0.0] - Introduzca aquí la fecha de release
 ### Added
-- Introduzca aquí el listado de incorporaciones para la versión correspondiente.
+- Enter the list of additions for the corresponding version here.
 
 ### Changed
-- Introduzca aquí el listado de cambios entre la versión correspondiente y la versión anterior.
+- Enter here the list of changes between the corresponding version and the previous version.
 
 ### Removed
-- Introduzca aquí el listado de eliminaciones entre la versión correspondiente y la versión anterior.
+- Enter here the list of deletions between the corresponding version and the previous version.
