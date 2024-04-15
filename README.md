@@ -35,8 +35,13 @@ You can use Postman:
   http://localhost:8080/de-challenge/v1/hiredemployees
   http://localhost:8080/de-challenge/v1/departments
 
+![image get_department] ([instructions/task/section_01/get_department.JPG](https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_department.JPG))
+![image get_jobs] (https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_jobs.JPG)
+![ihired_employees] (https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_hired_employess.JPG)
+
+
 ## Section_02 Sql
 
 Check folder /instructions/task/section_02
 
-![image description] ([instructions/task/section_01/get_department.JPG](https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_department.JPG))
+
