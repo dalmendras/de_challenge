@@ -1,0 +1,25 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      java: corretto8
+  pre_build:
+    commands:
+      - echo Pre Build started on `date`
+      - echo "Pre_build"
+  build:
+    commands:
+      - echo "Build"
+      - echo "Maven Clean"
+      - mvn clean
+      - echo "Maven Package"
+      - mvn -Dmaven.test.skip package -P dev
+  post_build:
+    commands:
+      - echo "Post_build"
+      - ls
+      - ls target/
+artifacts:
+  files:
+    - target/ws-poster.war
