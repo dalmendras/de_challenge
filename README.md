@@ -38,3 +38,5 @@ You can use Postman:
 ## Section_02 Sql
 
 Check folder /instructions/task/section_02
+
+instructions/task/section_01/get_department.JPG
