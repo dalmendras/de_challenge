@@ -25,20 +25,26 @@ Run ddl over MySql/MariaDb
 
 You can use Postman:
 
-- Load data (POST)
+- Load data (POST) Example
   http://localhost:8080/de-challenge/v1/departments/upload
   http://localhost:8080/de-challenge/v1/jobs/upload
   http://localhost:8080/de-challenge/v1/hiredemployees/upload
 
-- Read data (GET)
+- Read data (GET) Example
   http://localhost:8080/de-challenge/v1/jobs
   http://localhost:8080/de-challenge/v1/hiredemployees
   http://localhost:8080/de-challenge/v1/departments
 
-![image get_department] ([instructions/task/section_01/get_department.JPG](https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_department.JPG))
-![image get_jobs] (https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_jobs.JPG)
-[![ihired_employees] (https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_hired_employess.JPG)](https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_hired_employess.JPG)
+- Sample Get
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_department.JPG
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_jobs.JPG
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_hired_employess.JPG
 
+- Sample Post
+
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/post_departments.JPG
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/post_jobs.JPG
+https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/post_hired_employees.JPG
 
 ## Section_02 Sql
 
