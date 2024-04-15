@@ -39,4 +39,4 @@ You can use Postman:
 
 Check folder /instructions/task/section_02
 
-![image description] (instructions/task/section_01/get_department.JPG)
+![image description] ([instructions/task/section_01/get_department.JPG](https://github.com/dalmendras/de_challenge/blob/main/instructions/task/section_01/get_department.JPG))
