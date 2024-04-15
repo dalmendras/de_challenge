@@ -12,11 +12,15 @@ This proyect was develop on IntelliJ
 
 # Dependencies & Requirements
 
-- Spring Boots
+- Spring Boots, Java 11, MySql/MariaDb
 
 # Usage
 
-- Java 11
+- Install IntelliJ
+- Install MySql/MariaDb
+- Create Database and tables
+- Run IntelliJ Api
+- Post csv files
 
 ## Section_01 Endpoints
 
