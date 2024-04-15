@@ -1,3 +1,7 @@
+-- Create database
+CREATE DATABASE `de_challenge` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+
+
 -- de_challenge.departments definition
 
 CREATE TABLE `departments` (
